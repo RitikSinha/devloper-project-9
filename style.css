@@ -25,9 +25,7 @@ header {
   padding: 40px 80px 50px 80px;
   color: #fff;
 }
-.class {
-  float: left;
-}
+
 nav {
   float: right;
   display: flex;
@@ -240,3 +238,5 @@ nav {
 .footer-logos {
   margin-left: 10px;
 }
+
+/* responsive design */
